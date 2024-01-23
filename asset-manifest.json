@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cgu-ipsy/static/css/main.d655f4b5.css",
+    "main.js": "/cgu-ipsy/static/js/main.835c2638.js",
+    "static/js/787.2553bdf6.chunk.js": "/cgu-ipsy/static/js/787.2553bdf6.chunk.js",
+    "static/media/logo.png": "/cgu-ipsy/static/media/logo.61608fff8a528440dfec.png",
+    "index.html": "/cgu-ipsy/index.html",
+    "main.d655f4b5.css.map": "/cgu-ipsy/static/css/main.d655f4b5.css.map",
+    "main.835c2638.js.map": "/cgu-ipsy/static/js/main.835c2638.js.map",
+    "787.2553bdf6.chunk.js.map": "/cgu-ipsy/static/js/787.2553bdf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d655f4b5.css",
+    "static/js/main.835c2638.js"
+  ]
+}
